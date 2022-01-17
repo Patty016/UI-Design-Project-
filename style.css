@@ -1,0 +1,83 @@
+body{
+    background-image: url(img/image.jpg);
+    background-size: cover;
+}
+
+#card{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+h1{
+    color: #5664de;
+    font-size: 30px;
+    font-family: Ropa Sans;
+}
+
+.jumbotron{
+    margin-top: 5%;
+    color: #5664DE;
+}
+
+p{
+    color: black;
+}
+
+#track{
+    font-family: Ropa Sans;
+}
+
+.about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #c4c4c4;
+    color: white;
+}
+
+table, td, tr{
+	border: 3px solid black;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+img{
+	width: 400px;
+	height: 400px;
+}
+
+#map{
+   margin-left: 35%;
+}
+
+h2{
+    color: #5664de;
+    font-size: 40px;
+    font-family: Ropa Sans;
+}
+
+#desc{
+    font-family: Ropa Sans;
+}
+
+h3{
+    font-family: Ropa Sans;
+    color: #5664de;
+}
+
+h5{
+    font-family: Ropo Sans;
+}
+
+footer {
+    background-color:#5bc0de;
+	position:fixed;
+	text-align: center;
+	bottom: 0pt; 
+	left: 0pt;
+	width:100%;
+	padding:1px;
+	padding-bottom:5px;
+	font-family: Ropa Sans;
+}	  
+
